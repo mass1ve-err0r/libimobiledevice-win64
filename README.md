@@ -1,2 +1,2 @@
-# libimobiledevice-win64
-libimobiledevice precompiled for Windows (x64)
+# libimobiledevice for Windows (64bit)
+This repository contains precompiled libimobiledevice elements/ parts, based off the libimobiledevice-vs project ([HERE](https://github.com/libimobiledevice-win32/libimobiledevice-vs)) for Windows 64bit.
